@@ -23,5 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsangani&" alt="devsangani" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to crea
+
