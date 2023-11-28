@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **i am funny**
 
-<h3 align="left">Connect with me: 9173623532</h3>
+<h3 align="left">Connect with me: <br/>9173623532</h3>
 <p align="left">
 <a href="https://fb.com/dishant sangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dishant sangani" height="30" width="40" /></a>
 <a href="https://instagram.com/dishant_gt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishant_gt" height="30" width="40" /></a>
